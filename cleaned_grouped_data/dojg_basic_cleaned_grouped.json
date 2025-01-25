@@ -1,0 +1,1214 @@
+{
+ "は～だ_521": {
+  "grammar_point": "は～だ",
+  "translation": "",
+  "explanation": "Someone or something is/was someone or something or is/was in some state, or will do/does/did something.",
+  "sentences": []
+ },
+ "が_118": {
+  "grammar_point": "が",
+  "translation": "",
+  "explanation": "A particle which indicates the subject.",
+  "sentences": []
+ },
+ "ね_286": {
+  "grammar_point": "ね",
+  "translation": "English tag question (such as isn’t it?; is it?; don’t you?; do you?); you know",
+  "explanation": "A sentence final particle that indicates the speaker’s request for confirmation or agreement from the hearer about some shared knowledge",
+  "sentences": []
+ },
+ "わ_520": {
+  "grammar_point": "わ",
+  "translation": "",
+  "explanation": "A sentence final particle used in weak assertive or volitional sentences by a female speaker.",
+  "sentences": []
+ },
+ "ましょう_240": {
+  "grammar_point": "ましょう",
+  "translation": "I/We will do something; Let’s do something",
+  "explanation": "A verb ending which indicates the first person’s volition or invitation in formal speech.",
+  "sentences": []
+ },
+ "か_164": {
+  "grammar_point": "か",
+  "translation": "(either) ~ or ~",
+  "explanation": "A particle which marks an alternative.",
+  "sentences": []
+ },
+ "か_166": {
+  "grammar_point": "か",
+  "translation": "Whether; if",
+  "explanation": "A sentence final particle which indicates that the preceding sentence is interrogative.",
+  "sentences": []
+ },
+ "かい_170": {
+  "grammar_point": "かい",
+  "translation": "",
+  "explanation": "A sentence final particle which marks yes-no questions in informal male speech.",
+  "sentences": []
+ },
+ "かしら_181": {
+  "grammar_point": "かしら",
+  "translation": "I wonder",
+  "explanation": "A sentence final particle which expresses the idea that the female speaker wonders about something.",
+  "sentences": []
+ },
+ "ある_73": {
+  "grammar_point": "ある",
+  "translation": "Be; exist; have",
+  "explanation": "An inanimate thing exists",
+  "sentences": []
+ },
+ "てある_76": {
+  "grammar_point": "てある",
+  "translation": "Have been done; has been done; be done",
+  "explanation": "Something has been done to something and the resultant state of that action remains.",
+  "sentences": []
+ },
+ "いる_153": {
+  "grammar_point": "いる",
+  "translation": "Be; exist; stay",
+  "explanation": "An animate thing exists.",
+  "sentences": []
+ },
+ "ている_155": {
+  "grammar_point": "ている",
+  "translation": "Be ~ing; have done (something)",
+  "explanation": "Someone or something is doing something he or it started some time ago, or is in a state created by an action he or it took some time ago.",
+  "sentences": []
+ },
+ "する_428": {
+  "grammar_point": "する",
+  "translation": "",
+  "explanation": "Someone/something causes a state or action to take place.",
+  "sentences": []
+ },
+ "お_343": {
+  "grammar_point": "お",
+  "translation": "",
+  "explanation": "A prefix that expresses politeness.",
+  "sentences": []
+ },
+ "もう_254": {
+  "grammar_point": "もう",
+  "translation": "(not) anymore; (not) any longer; already; yet; now",
+  "explanation": "Someone or something is no longer in the same state that he or it was in some time ago.",
+  "sentences": []
+ },
+ "まだ_224": {
+  "grammar_point": "まだ",
+  "translation": "Still; (not) yet",
+  "explanation": "Someone or something is in some state he or it was in some time ago.",
+  "sentences": []
+ },
+ "の_312": {
+  "grammar_point": "の",
+  "translation": "",
+  "explanation": "A particle which, with a preceding noun phrase, forms a phrase to modify a following noun phrase.",
+  "sentences": []
+ },
+ "の_315": {
+  "grammar_point": "の",
+  "translation": "",
+  "explanation": "A dependent indefinite pronoun.",
+  "sentences": []
+ },
+ "の_318": {
+  "grammar_point": "の",
+  "translation": "",
+  "explanation": "A nominaliser which is used when the nominalised sentence expresses a directly perceptible event.",
+  "sentences": []
+ },
+ "のだ_325": {
+  "grammar_point": "のだ",
+  "translation": "The explanation is that ~; The reason is that ~; The fact is that ~; It is that ~",
+  "explanation": "A sentence ending which indicates that the speaker is explaining or asking for an explanation about some information shared with the hearer, or is talking about something emotively, as if it were of common interest to the speaker and the hearer.",
+  "sentences": []
+ },
+ "ので_328": {
+  "grammar_point": "ので",
+  "translation": "So; since; because",
+  "explanation": "A subordinate conjunction which expresses a reason or a cause.",
+  "sentences": []
+ },
+ "を_347": {
+  "grammar_point": "を",
+  "translation": "",
+  "explanation": "A particle which marks a direct object.",
+  "sentences": []
+ },
+ "を_349": {
+  "grammar_point": "を",
+  "translation": "",
+  "explanation": "A particle which indicates a space in/on/across/through/along which someone or something moves.",
+  "sentences": []
+ },
+ "のに_331": {
+  "grammar_point": "のに",
+  "translation": "",
+  "explanation": "Contrary to everybody’s expectation based on the sentence preceding [x], the proposition in the sentence following [x] is the case.",
+  "sentences": []
+ },
+ "でも_111": {
+  "grammar_point": "でも",
+  "translation": "",
+  "explanation": "Even The て form of です plus も ‘even’.",
+  "sentences": []
+ },
+ "は_516": {
+  "grammar_point": "は",
+  "translation": "",
+  "explanation": "A particle which marks a topic or a contrastive element.",
+  "sentences": []
+ },
+ "も_247": {
+  "grammar_point": "も",
+  "translation": "Too; also; (not) ~ either",
+  "explanation": "A particle which indicates that a proposition about the preceeding element X is also true when another similar proposition is true.",
+  "sentences": []
+ },
+ "どう_114": {
+  "grammar_point": "どう",
+  "translation": "How; in what way",
+  "explanation": "An interrogative adverb which asks about the state of someone/something or the way of doing something.",
+  "sentences": []
+ },
+ "くらい_212": {
+  "grammar_point": "くらい",
+  "translation": "Approximately; about",
+  "explanation": "Approximate quantity or extent.",
+  "sentences": []
+ },
+ "へ_116": {
+  "grammar_point": "へ",
+  "translation": "To; towards",
+  "explanation": "A particle that indicates the direction toward which some directional movement or action proceeds.",
+  "sentences": []
+ },
+ "出す・だす_102": {
+  "grammar_point": "出す・だす",
+  "translation": "Out; begin to; start to",
+  "explanation": "Something that has been latent is realised.",
+  "sentences": []
+ },
+ "で_105": {
+  "grammar_point": "で",
+  "translation": "",
+  "explanation": "A particle which indicates location, except for location of existence.",
+  "sentences": []
+ },
+ "から_176": {
+  "grammar_point": "から",
+  "translation": "From; since; out of",
+  "explanation": "A particle which indicates a starting point or a source.",
+  "sentences": []
+ },
+ "てから_177": {
+  "grammar_point": "てから",
+  "translation": "After; having done something; since (time)",
+  "explanation": "After/since a point in time at which something takes place.",
+  "sentences": []
+ },
+ "と_473": {
+  "grammar_point": "と",
+  "translation": "",
+  "explanation": "A particle which lists things exhaustively.",
+  "sentences": []
+ },
+ "と_476": {
+  "grammar_point": "と",
+  "translation": "",
+  "explanation": "A particle marking the noun phrase which maintains a reciprocal relationship with the subject of a clause.",
+  "sentences": []
+ },
+ "て_464": {
+  "grammar_point": "て",
+  "translation": "And; -ing",
+  "explanation": "The て form ending of verbs and い-type adjectives (The て form ending of な-type adjectives and the て form of the copula is で.)",
+  "sentences": []
+ },
+ "だけ_93": {
+  "grammar_point": "だけ",
+  "translation": "Only; just; alone; merely; that’s all",
+  "explanation": "A particle which expresses a limit imposed upon something that is growing and expanding.",
+  "sentences": []
+ },
+ "も~も_255": {
+  "grammar_point": "も~も",
+  "translation": "Both ~ and ~; neither ~ nor",
+  "explanation": "The repeated use of a particle meaning ‘also’ to list elements belonging to the same part of speech.",
+  "sentences": []
+ },
+ "し_395": {
+  "grammar_point": "し",
+  "translation": "And what’s more; not only ~ but also ~; so",
+  "explanation": "A conjunction to indicate ‘and’ in an emphatic way.",
+  "sentences": []
+ },
+ "のに_335": {
+  "grammar_point": "のに",
+  "translation": "",
+  "explanation": "In the process or for the purpose of doing something expressed in the の nominalised clause.",
+  "sentences": []
+ },
+ "という_486": {
+  "grammar_point": "という",
+  "translation": "Called; that says ~; that",
+  "explanation": "A phrase marking information which identifies or explains the noun following the phrase.",
+  "sentences": []
+ },
+ "って_507": {
+  "grammar_point": "って",
+  "translation": "",
+  "explanation": "A colloquial topic-introducer.",
+  "sentences": []
+ },
+ "時・とき_490": {
+  "grammar_point": "時・とき",
+  "translation": "At the time when; when",
+  "explanation": "A dependent noun which indicates the time when someone/something will do/does/did something or the time when someone/something will be/is/was in some state.",
+  "sentences": []
+ },
+ "もの（だ）_257": {
+  "grammar_point": "もの（だ）",
+  "translation": "Because; how could ~!; used to; should like to; should",
+  "explanation": "The speaker presents some situation as if it were a tangible object; Also nominalizes something to show that something is undoubtedly true, or events/habits that used to occur.",
+  "sentences": []
+ },
+ "こと_191": {
+  "grammar_point": "こと",
+  "translation": "",
+  "explanation": "A thing which is intangible.",
+  "sentences": []
+ },
+ "つもり_503": {
+  "grammar_point": "つもり",
+  "translation": "Intend to ~; be convinced that ~; believe; feel sure that ~; be going to; mean",
+  "explanation": "An intention or conviction of a speaker (or a person with whom the speaker can empathise) about his future or past actions or current state.",
+  "sentences": []
+ },
+ "はず_133": {
+  "grammar_point": "はず",
+  "translation": "I expect that ~; it is expected that ~; ~ is expected to; I am fairly certain that ~; should; ought to; it is natural that ~; no wonder ~",
+  "explanation": "A dependant noun which expresses the speaker’s expectation that something will take place or took place or that someone/something is or was in some state.",
+  "sentences": []
+ },
+ "為（に）・ため（に）_447": {
+  "grammar_point": "為（に）・ため（に）",
+  "translation": "On account of ~; for the benefit of ~; for the good of ~; for the sake of ~; on behalf of ~; for the purpose of ~; in order to ~; because of ~; owing to ~",
+  "explanation": "A noun that indicates a benefit, a purpose, a reason or a cause.",
+  "sentences": []
+ },
+ "ほうがいい_138": {
+  "grammar_point": "ほうがいい",
+  "translation": "",
+  "explanation": "Had better do something It is strongly suggested that someone do something.",
+  "sentences": []
+ },
+ "か(どうか)_168": {
+  "grammar_point": "か(どうか)",
+  "translation": "Whether or not; if (~ or not)",
+  "explanation": "A marker for an embedded yes-no question.",
+  "sentences": []
+ },
+ "たって_461": {
+  "grammar_point": "たって",
+  "translation": "Even if ~",
+  "explanation": "Even if someone did something or something were in some state (the desired result would not come about) or even if someone or something is in some state.",
+  "sentences": []
+ },
+ "行く・いく_149": {
+  "grammar_point": "行く・いく",
+  "translation": "",
+  "explanation": "Someone or something moves in a direction away from the speaker or the speaker’s viewpoint.",
+  "sentences": []
+ },
+ "下さい・ください_209": {
+  "grammar_point": "下さい・ください",
+  "translation": "",
+  "explanation": "An auxiliary verb which indicates a polite request.",
+  "sentences": []
+ },
+ "呉れる・くれる_213": {
+  "grammar_point": "呉れる・くれる",
+  "translation": "",
+  "explanation": "Someone whose status is not higher than the speaker’s gives something to the first person or to someone with whom the speaker empathises.",
+  "sentences": []
+ },
+ "呉れる・くれる_216": {
+  "grammar_point": "呉れる・くれる",
+  "translation": "",
+  "explanation": "Someone does something as a favour to the first person or to someone with whom the speaker empathises.",
+  "sentences": []
+ },
+ "来る・くる_219": {
+  "grammar_point": "来る・くる",
+  "translation": "",
+  "explanation": "Someone or something moves in a direction towards the speaker or the speaker’s viewpoint or area of empathy.",
+  "sentences": []
+ },
+ "として_501": {
+  "grammar_point": "として",
+  "translation": "As; in the capacity of",
+  "explanation": "A compound particle which indicates the capacity, role or function of someone or something.",
+  "sentences": []
+ },
+ "ないで_271": {
+  "grammar_point": "ないで",
+  "translation": "Do not do something and; without doing ~",
+  "explanation": "A negative て form of a verb.",
+  "sentences": []
+ },
+ "なくて_279": {
+  "grammar_point": "なくて",
+  "translation": "Do not do something and ~; is not ~ and ~; because ~ do not do something",
+  "explanation": "A て form of the negative ない, which indicates a cause/reason for a state or action.",
+  "sentences": []
+ },
+ "ようだ_547": {
+  "grammar_point": "ようだ",
+  "translation": "Look like; look as if; be like; appear; seem",
+  "explanation": "An auxiliary な type adjective which expresses the likelihood of something/someone or the likeness of something/someone to something/someone.",
+  "sentences": []
+ },
+ "欲しい・ほしい_144": {
+  "grammar_point": "欲しい・ほしい",
+  "translation": "",
+  "explanation": "Something is desired by the speaker.",
+  "sentences": []
+ },
+ "だい_90": {
+  "grammar_point": "だい",
+  "translation": "",
+  "explanation": "A sentence final particle which indicates an interrogative word question in informal male speech.",
+  "sentences": []
+ },
+ "多い・おおい_354": {
+  "grammar_point": "多い・おおい",
+  "translation": "Many; a lot of; much",
+  "explanation": "(of quantity or number) a lot",
+  "sentences": []
+ },
+ "がる_123": {
+  "grammar_point": "がる",
+  "translation": "Show signs of ~",
+  "explanation": "An auxiliary verb attached to a psychological/physiological adjective meaning a person other than the speaker shows signs of ~",
+  "sentences": []
+ },
+ "に_289": {
+  "grammar_point": "に",
+  "translation": "",
+  "explanation": "A particle that indicates a point of time at which something takes place.",
+  "sentences": []
+ },
+ "に_291": {
+  "grammar_point": "に",
+  "translation": "",
+  "explanation": "An indirect object marker.",
+  "sentences": []
+ },
+ "あとで_78": {
+  "grammar_point": "あとで",
+  "translation": "After",
+  "explanation": "Some state or action takes place at a time (not always immediately) after another state or action has taken place.",
+  "sentences": []
+ },
+ "ば_81": {
+  "grammar_point": "ば",
+  "translation": "If",
+  "explanation": "A conjunction which indicates that the preceding clause expresses a conditional.",
+  "sentences": []
+ },
+ "たら_452": {
+  "grammar_point": "たら",
+  "translation": "If; when; after",
+  "explanation": "A subordinate conjunction which indicates that the action/state expressed by the main clause in a sentence takes place after the action/state expressed by the subordinate clause.",
+  "sentences": []
+ },
+ "なら_281": {
+  "grammar_point": "なら",
+  "translation": "If it is true that; if it is the case that; if; would; could",
+  "explanation": "A conjunction which indicates that the preceding sentence is the speaker’s supposition about the truth of a present or past fact or the actualisation of something in the future.",
+  "sentences": []
+ },
+ "はいけない_528": {
+  "grammar_point": "はいけない",
+  "translation": "Cannot do something; must not do something; don’t do something; should not do something",
+  "explanation": "A phrase which indicates prohibition.",
+  "sentences": []
+ },
+ "なければならない_274": {
+  "grammar_point": "なければならない",
+  "translation": "Have to; must; need",
+  "explanation": "It won’t do if someone does not take some action or if someone or something is not in some state.",
+  "sentences": []
+ },
+ "な_266": {
+  "grammar_point": "な",
+  "translation": "Don't do ~",
+  "explanation": "A negative imperative marker used by a male speaker in very informal speech",
+  "sentences": []
+ },
+ "ても_468": {
+  "grammar_point": "ても",
+  "translation": "Even if; although",
+  "explanation": "[x] is used when that which is expressed in the main clause is not what is expected from the content of the dependent ([x]) clause.",
+  "sentences": []
+ },
+ "てもいい_471": {
+  "grammar_point": "てもいい",
+  "translation": "May; It is all right if",
+  "explanation": "てもいい",
+  "sentences": []
+ },
+ "みる_246": {
+  "grammar_point": "みる",
+  "translation": "Do something and see; try to do something",
+  "explanation": "Do something to see what it’s like or what will happen.",
+  "sentences": []
+ },
+ "しまう_403": {
+  "grammar_point": "しまう",
+  "translation": "Have dome something; finish doing something; finish something up",
+  "explanation": "An auxiliary verb which indicates the completion of an action.",
+  "sentences": []
+ },
+ "おく_357": {
+  "grammar_point": "おく",
+  "translation": "Do something in advance; go ahead and do something; let someone/something remain as he/it is",
+  "explanation": "Do something in advance for future convenience.",
+  "sentences": []
+ },
+ "だろう_100": {
+  "grammar_point": "だろう",
+  "translation": "Probably",
+  "explanation": "An auxiliary indicating the speaker’s conjecture which is not based on any particular information or evidence.",
+  "sentences": []
+ },
+ "かもしれない_173": {
+  "grammar_point": "かもしれない",
+  "translation": "Might",
+  "explanation": "Can't tell if ~",
+  "sentences": []
+ },
+ "なさい_284": {
+  "grammar_point": "なさい",
+  "translation": "Do something",
+  "explanation": "A polite imperative used by superiors such as parents or teachers to their inferiors (=people of younger age and lower rank)",
+  "sentences": []
+ },
+ "ことが出来る・できる_200": {
+  "grammar_point": "ことが出来る・できる",
+  "translation": "Can; be able to",
+  "explanation": "Doing something is possible",
+  "sentences": []
+ },
+ "は～が_525": {
+  "grammar_point": "は～が",
+  "translation": "",
+  "explanation": "A construction which relates a non-controllable state of something or someone to a topic",
+  "sentences": []
+ },
+ "あげる_63": {
+  "grammar_point": "あげる",
+  "translation": "Give",
+  "explanation": "Someone gives something to a person who is not a member of the giver’s in group but whose status is about equal to that of the giver.",
+  "sentences": []
+ },
+ "もらう_261": {
+  "grammar_point": "もらう",
+  "translation": "",
+  "explanation": "The first person or someone the speaker empathises with receives something from someone whose status is not as high as the receiver’s.",
+  "sentences": []
+ },
+ "そうだ_407": {
+  "grammar_point": "そうだ",
+  "translation": "",
+  "explanation": "An auxiliary which indicates that the information expressed by the preceding sentence is what the speaker heard.",
+  "sentences": []
+ },
+ "それで_413": {
+  "grammar_point": "それで",
+  "translation": "And; because of that; that is why; therefore; so",
+  "explanation": "A conjunction to indicate that what is stated in the preceding sentence is the reason or cause for what is stated in the following sentence.",
+  "sentences": []
+ },
+ "らしい_373": {
+  "grammar_point": "らしい",
+  "translation": "Seem; look like; apparently; I heard",
+  "explanation": "An auxiliary adjective which indicates that the preceding sentence is the speaker’s conjecture based on what he has heard, read or seen.",
+  "sentences": []
+ },
+ "ように_553": {
+  "grammar_point": "ように",
+  "translation": "So that",
+  "explanation": "Do something in such a way that ~.",
+  "sentences": []
+ },
+ "のは～だ_337": {
+  "grammar_point": "のは～だ",
+  "translation": "It is ~ that ~; the one who ~ is ~; the place where ~ is ~; the reason why ~ is ~; the time when ~ is ~; what ~ is ~",
+  "explanation": "A structure that indicates new, important information by placing it between [x] and the copula [x] ([x] is an indefinite pronoun ([x]2) that replaces ‘time’,’person’, ‘thing’, ‘place’ or ‘reason’.)",
+  "sentences": []
+ },
+ "さ_381": {
+  "grammar_point": "さ",
+  "translation": "-ness; -ly",
+  "explanation": "A suffix that makes a noun out of an adjective by attaching it to the stem of an Adj (い) or much less frequently to the stem of an Adj (な)",
+  "sentences": []
+ },
+ "が_120": {
+  "grammar_point": "が",
+  "translation": "But",
+  "explanation": "A disjunctive coordinate conjunction that combines two sentences.",
+  "sentences": []
+ },
+ "など_267": {
+  "grammar_point": "など",
+  "translation": "And so on; and the like; for example; things like ~",
+  "explanation": "A marker that indicates exemplification.",
+  "sentences": []
+ },
+ "より_564": {
+  "grammar_point": "より",
+  "translation": "",
+  "explanation": "A particle which indicates that something/someone is being compared with something/someone.",
+  "sentences": []
+ },
+ "ばかり_84": {
+  "grammar_point": "ばかり",
+  "translation": "Only; just; be ready to do something; have just done something; just did something; be just doing something; about",
+  "explanation": "A particle which indicates that something is the only thing or state which exists, or the action someone will take, takes, is taking or took.",
+  "sentences": []
+ },
+ "お～する_360": {
+  "grammar_point": "お～する",
+  "translation": "",
+  "explanation": "A phrase which humbly expresses the speaker’s politeness to someone when describing the speaker’s action or state that involves or affects that person.",
+  "sentences": []
+ },
+ "ことがある_196": {
+  "grammar_point": "ことがある",
+  "translation": "",
+  "explanation": "Someone has done something; someone has had an experience doing something; there was a time when ~",
+  "sentences": []
+ },
+ "要る・いる_157": {
+  "grammar_point": "要る・いる",
+  "translation": "Need",
+  "explanation": "Someone, something needs something",
+  "sentences": []
+ },
+ "お～になる_358": {
+  "grammar_point": "お～になる",
+  "translation": "",
+  "explanation": "A phrase which expresses the speaker’s respect for someone when describing that person’s action or state",
+  "sentences": []
+ },
+ "ごろ_126": {
+  "grammar_point": "ごろ",
+  "translation": "About; around",
+  "explanation": "Approximately (with a specific point of time).",
+  "sentences": []
+ },
+ "ようと思う_569": {
+  "grammar_point": "ようと思う",
+  "translation": "~ think ~ will",
+  "explanation": "The speaker desires or decides to do something.",
+  "sentences": []
+ },
+ "ことになる_202": {
+  "grammar_point": "ことになる",
+  "translation": "It will be decided that ~; come about ~; be arranged that ~; turn out that ~",
+  "explanation": "An event takes place as if spontaneously, irrespective of the speaker's volition.",
+  "sentences": []
+ },
+ "の | It is that ~_322": {
+  "grammar_point": "の | It is that ~",
+  "translation": "",
+  "explanation": "A sentence-final particle used by a female or a child to indicate an explanation or emotive emphasis.",
+  "sentences": []
+ },
+ "それなら_419": {
+  "grammar_point": "それなら",
+  "translation": "Then; in that case",
+  "explanation": "If that is the case,",
+  "sentences": []
+ },
+ "少ない・すくない_427": {
+  "grammar_point": "少ない・すくない",
+  "translation": "Few; a small number of; little; a small quantity of ~",
+  "explanation": "Small in number of quantity.",
+  "sentences": []
+ },
+ "を_351": {
+  "grammar_point": "を",
+  "translation": "",
+  "explanation": "A particle that marks the location from which some movement begins.",
+  "sentences": []
+ },
+ "を_352": {
+  "grammar_point": "を",
+  "translation": "",
+  "explanation": "A particle that marks the cause of some human emotion.",
+  "sentences": []
+ },
+ "に_292": {
+  "grammar_point": "に",
+  "translation": "",
+  "explanation": "A particle that indicates an agent or a source in passive, causative, もらう/てまらう and other receiving constructions.",
+  "sentences": []
+ },
+ "に_295": {
+  "grammar_point": "に",
+  "translation": "",
+  "explanation": "A particle that indicates the surface of something upon which some action directly takes place.",
+  "sentences": []
+ },
+ "で_106": {
+  "grammar_point": "で",
+  "translation": "",
+  "explanation": "A particle which indicates the use of something for doing something.",
+  "sentences": []
+ },
+ "で_107": {
+  "grammar_point": "で",
+  "translation": "",
+  "explanation": "A particle (apparently derived from the て form of です) that indicates a weak causal relationship.",
+  "sentences": []
+ },
+ "する_434": {
+  "grammar_point": "する",
+  "translation": "",
+  "explanation": "Someone or something has some (semi)permanent attribute.",
+  "sentences": []
+ },
+ "する_435": {
+  "grammar_point": "する",
+  "translation": "",
+  "explanation": "Something is perceived by someone’s non-visual senses.",
+  "sentences": []
+ },
+ "間・あいだ(に)_67": {
+  "grammar_point": "間・あいだ(に)",
+  "translation": "During (the time when); while",
+  "explanation": "The space between two temporal or physical points.",
+  "sentences": []
+ },
+ "やはり_538": {
+  "grammar_point": "やはり",
+  "translation": "Still; also; after all; as expected; you know",
+  "explanation": "An adverb indicating that the actual situation expectedly/anticipatively conforms to a standard based on past experience, comparison with other people, or common sense.",
+  "sentences": []
+ },
+ "も_250": {
+  "grammar_point": "も",
+  "translation": "",
+  "explanation": "A marker which indicates emphasis.",
+  "sentences": []
+ },
+ "そうだ_410": {
+  "grammar_point": "そうだ",
+  "translation": "",
+  "explanation": "An auxiliary adjective which indicates that what is expressed by the preceding sentence is the speaker’s conjecture concerning an event in the future or the present state of someone or something, based on what the speaker sees or feels.",
+  "sentences": []
+ },
+ "や_536": {
+  "grammar_point": "や",
+  "translation": "And",
+  "explanation": "A coordinate conjunction that is used to list two or more items (nouns or noun phrases) in an inexhaustive fashion",
+  "sentences": []
+ },
+ "で_109": {
+  "grammar_point": "で",
+  "translation": "",
+  "explanation": "A particle which indicates the time when something terminates or the amount of time a period of activity has taken.",
+  "sentences": []
+ },
+ "から_179": {
+  "grammar_point": "から",
+  "translation": "So; since; because",
+  "explanation": "A subordinate conjunction which expresses a reason or a cause.",
+  "sentences": []
+ },
+ "こと_193": {
+  "grammar_point": "こと",
+  "translation": "",
+  "explanation": "A nominaliser used to indicate the speaker’s relative lack of empathy with the content of the sentence he is nominalising.",
+  "sentences": []
+ },
+ "だけで(は)なく～(も)_97": {
+  "grammar_point": "だけで(は)なく～(も)",
+  "translation": "Not only ~ but also ~",
+  "explanation": "Not only X but also Y, where X and Y can be either a noun, a verb, or an adjective.",
+  "sentences": []
+ },
+ "方・かた_183": {
+  "grammar_point": "方・かた",
+  "translation": "A way of; a manner of; how to",
+  "explanation": "A noun forming suffix that indicates a way or a manner in which one does something.",
+  "sentences": []
+ },
+ "けれども_187": {
+  "grammar_point": "けれども",
+  "translation": "Although; though",
+  "explanation": "A disjunctive subordinate conjunction that combines two sentences.",
+  "sentences": []
+ },
+ "そして_422": {
+  "grammar_point": "そして",
+  "translation": "And; and then",
+  "explanation": "A coordinate conjunction that connects two sentences.",
+  "sentences": []
+ },
+ "知る・しる_406": {
+  "grammar_point": "知る・しる",
+  "translation": "Get to know",
+  "explanation": "Someone gets information from some outside source.",
+  "sentences": []
+ },
+ "それから_416": {
+  "grammar_point": "それから",
+  "translation": "After that; and then; in addition to that",
+  "explanation": "A conjunction that indicates (1) temporally contiguous actions or states, or (2) a cumulative listing of objects, actions or states.",
+  "sentences": []
+ },
+ "ことは_206": {
+  "grammar_point": "ことは",
+  "translation": "Indeed one does something alright, (but ~); indeed ~ (but ~); do ~ (but ~)",
+  "explanation": "Speaking of proposition X, X is certainly true.",
+  "sentences": []
+ },
+ "にしては_309": {
+  "grammar_point": "にしては",
+  "translation": "For ~; considering that ~",
+  "explanation": "A phrase that indicates a generally agreed upon standard (the entire sentence that includes this phrase expresses some deviation from that standard.)",
+  "sentences": []
+ },
+ "行く・いく_151": {
+  "grammar_point": "行く・いく",
+  "translation": "",
+  "explanation": "Some action or state keeps changing from the point in time at which the speaker first describes the action.",
+  "sentences": []
+ },
+ "に違いない・にちがいない_304": {
+  "grammar_point": "に違いない・にちがいない",
+  "translation": "There is no doubt that ~; must be ~; no doubt",
+  "explanation": "The speaker is convinced that there is no mistake on his part in guessing something.",
+  "sentences": []
+ },
+ "それでは_414": {
+  "grammar_point": "それでは",
+  "translation": "If so; then; well then",
+  "explanation": "If that is the case",
+  "sentences": []
+ },
+ "ように_554": {
+  "grammar_point": "ように",
+  "translation": "",
+  "explanation": "An adverbial form of ようだ",
+  "sentences": []
+ },
+ "欲しい・ほしい_146": {
+  "grammar_point": "欲しい・ほしい",
+  "translation": "",
+  "explanation": "Want someone (who is not higher in status than the speaker) to do something.",
+  "sentences": []
+ },
+ "一番・いちばん_148": {
+  "grammar_point": "一番・いちばん",
+  "translation": "Most",
+  "explanation": "A superlative marker.",
+  "sentences": []
+ },
+ "ばよかった_87": {
+  "grammar_point": "ばよかった",
+  "translation": "I wish ~ had done something",
+  "explanation": "A phrase which expresses the speaker’s regret.",
+  "sentences": []
+ },
+ "たらどうですか_457": {
+  "grammar_point": "たらどうですか",
+  "translation": "Why don't you do ~?; what about doing ~?",
+  "explanation": "A phrase which expresses a suggestion (literally: How would you feel if you do something?)",
+  "sentences": []
+ },
+ "としては_502": {
+  "grammar_point": "としては",
+  "translation": "For",
+  "explanation": "A compound particle which indicates a standard for comparisons.",
+  "sentences": []
+ },
+ "見える・みえる_243": {
+  "grammar_point": "見える・みえる",
+  "translation": "Be visible; (can) see; look ~",
+  "explanation": "Someone or something is passively/spontaneously visible.",
+  "sentences": []
+ },
+ "好きだ・すきだ_426": {
+  "grammar_point": "好きだ・すきだ",
+  "translation": "Like; be fond of",
+  "explanation": "Something or someone is what someone likes.",
+  "sentences": []
+ },
+ "する_436": {
+  "grammar_point": "する",
+  "translation": "",
+  "explanation": "A verb that indicates how much something costs or a duration of time.",
+  "sentences": []
+ },
+ "あまり_72": {
+  "grammar_point": "あまり",
+  "translation": "(not) very much; (not) very",
+  "explanation": "The degree of something is not great.",
+  "sentences": []
+ },
+ "あげる_65": {
+  "grammar_point": "あげる",
+  "translation": "Do something for someone; do someone a favour by doing something",
+  "explanation": "Someone gives some action as a favour to a person who is not a member of the giver’s in group but whose status is about equal of the giver.",
+  "sentences": []
+ },
+ "ほうが~より_140": {
+  "grammar_point": "ほうが~より",
+  "translation": "~ be more (adjective) than ~; ~ do something more (adverb) than ~ do",
+  "explanation": "Comparing two entities, one is in some state or does something more than the other.",
+  "sentences": []
+ },
+ "ほど_135": {
+  "grammar_point": "ほど",
+  "translation": "To the extent of; to the extent that ~; (not as) ~ as ~; about",
+  "explanation": "A particle which indicates an extent or a degree to which someone/something does something or is in some state.",
+  "sentences": []
+ },
+ "まで_225": {
+  "grammar_point": "まで",
+  "translation": "As far as; till; up to; until; through; even",
+  "explanation": "A particle to indicate a spatial, temporal or quantitative limit or an unexpected animate/inanimate object.",
+  "sentences": []
+ },
+ "君・くん_211": {
+  "grammar_point": "君・くん",
+  "translation": "",
+  "explanation": "A suffix attached to the first or last name of a male equal or to the first or last name of a person whose status or rank is lower than the speaker’s.",
+  "sentences": []
+ },
+ "もらう_263": {
+  "grammar_point": "もらう",
+  "translation": "",
+  "explanation": "The first person or someone the speaker empathizes with receives some benefit from an action by someone whose status is not as high as the receiver’s.",
+  "sentences": []
+ },
+ "難い・にくい_307": {
+  "grammar_point": "難い・にくい",
+  "translation": "Hard to ~; difficult to ~; don’t do something easily; not readily; not prone to ~",
+  "explanation": "Something or someone is hard to ~.",
+  "sentences": []
+ },
+ "に_297": {
+  "grammar_point": "に",
+  "translation": "",
+  "explanation": "A particle which indicates purpose when someone moves from one place to another.",
+  "sentences": []
+ },
+ "に_299": {
+  "grammar_point": "に",
+  "translation": "",
+  "explanation": "A particle which indicates the location where someone or something exists.",
+  "sentences": []
+ },
+ "られる_364": {
+  "grammar_point": "られる",
+  "translation": "Be –ed; get –ed",
+  "explanation": "A state or an action cannot be controlled by someone or something.",
+  "sentences": []
+ },
+ "しか_398": {
+  "grammar_point": "しか",
+  "translation": "Nothing/nobody/no ~ but; only",
+  "explanation": "A particle which marks an element X when nothing but X makes the expressed proposition true.",
+  "sentences": []
+ },
+ "とか_488": {
+  "grammar_point": "とか",
+  "translation": "And; or",
+  "explanation": "A conjunction that lists two or more items, actions or states as inexhaustive examples.",
+  "sentences": []
+ },
+ "ところだ_495": {
+  "grammar_point": "ところだ",
+  "translation": "",
+  "explanation": "A place is in a location which takes a certain amount of time to get to.",
+  "sentences": []
+ },
+ "って_510": {
+  "grammar_point": "って",
+  "translation": "",
+  "explanation": "A colloquial quotation marker.",
+  "sentences": []
+ },
+ "わけだ_531": {
+  "grammar_point": "わけだ",
+  "translation": "No wonder; so it means that ~; that's why; should ~; I take it that ~; naturally",
+  "explanation": "The speaker's conclusion obtained through deductive, logical judgment or calculation on the basis of what he has heard or read.",
+  "sentences": []
+ },
+ "来る・くる_221": {
+  "grammar_point": "来る・くる",
+  "translation": "",
+  "explanation": "An auxiliary verb which indicates the beginning of some process or continuation of some action up to a current point of time.",
+  "sentences": []
+ },
+ "代わりに・かわりに_184": {
+  "grammar_point": "代わりに・かわりに",
+  "translation": "In place of ~; instead of; to make up for ~; although; but",
+  "explanation": "Something (including an action) replaces something else.",
+  "sentences": []
+ },
+ "自分・じぶん_159": {
+  "grammar_point": "自分・じぶん",
+  "translation": "",
+  "explanation": "~ self; own",
+  "sentences": []
+ },
+ "自分・じぶん_161": {
+  "grammar_point": "自分・じぶん",
+  "translation": "",
+  "explanation": "~ self; own",
+  "sentences": []
+ },
+ "ことがある_198": {
+  "grammar_point": "ことがある",
+  "translation": "",
+  "explanation": "There are times when ~.",
+  "sentences": []
+ },
+ "までに_228": {
+  "grammar_point": "までに",
+  "translation": "By; by the time (when)",
+  "explanation": "A particle that indicates a time limit on/for an action.",
+  "sentences": []
+ },
+ "前に・まえに_231": {
+  "grammar_point": "前に・まえに",
+  "translation": "Before; in front of",
+  "explanation": "In front of or before some situation comes about.",
+  "sentences": []
+ },
+ "まま_236": {
+  "grammar_point": "まま",
+  "translation": "As it is; unchanged; undisturbed; leave as is; remain",
+  "explanation": "An already given situation or condition remains unaltered.",
+  "sentences": []
+ },
+ "ながら_269": {
+  "grammar_point": "ながら",
+  "translation": "While; over; with",
+  "explanation": "A conjunction which indicates that the action expressed by the preceding verb takes place concurrently or simultaneously with the action expressed in the main clause.",
+  "sentences": []
+ },
+ "に_302": {
+  "grammar_point": "に",
+  "translation": "",
+  "explanation": "To; toward.",
+  "sentences": []
+ },
+ "Relative Clause_376": {
+  "grammar_point": "Relative Clause",
+  "translation": "",
+  "explanation": "Relative Clause",
+  "sentences": []
+ },
+ "たり～たりする_458": {
+  "grammar_point": "たり～たりする",
+  "translation": "Do things like ~ and ~; sometimes ~ and sometimes ~",
+  "explanation": "A phrase which expresses an inexhaustive listing of action or states.",
+  "sentences": []
+ },
+ "と_478": {
+  "grammar_point": "と",
+  "translation": "",
+  "explanation": "A particle which marks a quotation, sound or the manner in which someone/something does something.",
+  "sentences": []
+ },
+ "と_480": {
+  "grammar_point": "と",
+  "translation": "",
+  "explanation": "A subordinate conjunction which marks a condition that brings about an uncontrollable event or state.",
+  "sentences": []
+ },
+ "屋・や_535": {
+  "grammar_point": "屋・や",
+  "translation": "Store",
+  "explanation": "A suffix attached to names of stores, inns and Japanese style restaurants or to persons engaged in certain occupations",
+  "sentences": []
+ },
+ "より_567": {
+  "grammar_point": "より",
+  "translation": "",
+  "explanation": "A particle which indicates a set point in terms of space or time.",
+  "sentences": []
+ },
+ "と言えば_484": {
+  "grammar_point": "と言えば",
+  "translation": "Speaking of ~",
+  "explanation": "An expression which presents as the topic of a following discourse a phrase which has just been uttered.",
+  "sentences": []
+ },
+ "終わる・おわる_362": {
+  "grammar_point": "終わる・おわる",
+  "translation": "Finish; end",
+  "explanation": "Finish doing ~",
+  "sentences": []
+ },
+ "様・さま_384": {
+  "grammar_point": "様・さま",
+  "translation": "Mr; Miss; Ms; Mrs",
+  "explanation": "A suffix (originally meaning 'appearance') that indicates the speaker's/writer's politeness towards someone.<br><br>*Old children's book title",
+  "sentences": []
+ },
+ "毎・まい_233": {
+  "grammar_point": "毎・まい",
+  "translation": "Every; per",
+  "explanation": "A prefix which means ‘every (unit of time)’.",
+  "sentences": []
+ },
+ "始める・はじめる_131": {
+  "grammar_point": "始める・はじめる",
+  "translation": "Begin to",
+  "explanation": "Someone/something begins to do something or begins to be in some state.",
+  "sentences": []
+ },
+ "ことにする_204": {
+  "grammar_point": "ことにする",
+  "translation": "Decide to",
+  "explanation": "A volitional decision to do something is made.",
+  "sentences": []
+ },
+ "なくなる_277": {
+  "grammar_point": "なくなる",
+  "translation": "Not ~ any more",
+  "explanation": "It has reached the point where some state or action does not take place anymore.",
+  "sentences": []
+ },
+ "させる_387": {
+  "grammar_point": "させる",
+  "translation": "Make someone/something do something; cause someone/something to do something; let someone/something do something; allow someone/something to do something; have someone/something do something; get someone/something to do something.",
+  "explanation": "Cause someone/something to do something or cause something to change its state.",
+  "sentences": []
+ },
+ "過ぎる・すぎる_423": {
+  "grammar_point": "過ぎる・すぎる",
+  "translation": "Too; do something too much/often; over-",
+  "explanation": "Someone/something does something excessively or is in a state excessively.",
+  "sentences": []
+ },
+ "堪らない・たまらない_445": {
+  "grammar_point": "堪らない・たまらない",
+  "translation": "Unbearably ~; extremely; be dying to do ~",
+  "explanation": "The speaker or whomever he empathises with cannot cope with a situation expressed by the て phrase.",
+  "sentences": []
+ },
+ "ところだ_496": {
+  "grammar_point": "ところだ",
+  "translation": "",
+  "explanation": "Someone/something is in the state where he/it is just about to do something, is doing something, has done something, or has been doing something.",
+  "sentences": []
+ },
+ "にする_310": {
+  "grammar_point": "にする",
+  "translation": "Decide on ~; make it ~",
+  "explanation": "Someone has decided on something.",
+  "sentences": []
+ },
+ "られる_370": {
+  "grammar_point": "られる",
+  "translation": "",
+  "explanation": "An auxiliary verb which indicates potential.",
+  "sentences": []
+ },
+ "易い・やすい_541": {
+  "grammar_point": "易い・やすい",
+  "translation": "Easy to; ready to; be apt to; prone to; do something easily",
+  "explanation": "Something or someone is easy to ~.",
+  "sentences": []
+ },
+ "ようにする_562": {
+  "grammar_point": "ようにする",
+  "translation": "Do ~ in such a way that ~; see to it that ~; make sure that ~; bring it about that ~",
+  "explanation": "Someone causes some circumstantial or behavioural change to take place.",
+  "sentences": []
+ },
+ "分かる・わかる_529": {
+  "grammar_point": "分かる・わかる",
+  "translation": "Be comprehensible; understand; can tell; figure out",
+  "explanation": "Can figure out (spontaneously) various facts –such as content, nature, value, meaning, cause, reason, result– about something whose existence is presupposed.",
+  "sentences": []
+ },
+ "せっかく_392": {
+  "grammar_point": "せっかく",
+  "translation": "With effort; at great pain; take the trouble to do ~",
+  "explanation": "Some situation which seldom occurs has now occurred and one can either make use of it or, to one’s regret, cannot make use of it.",
+  "sentences": []
+ },
+ "聞こえる・きこえる_188": {
+  "grammar_point": "聞こえる・きこえる",
+  "translation": "Audible; (can) hear; it sounds",
+  "explanation": "Something is passively and spontaneously audiable.",
+  "sentences": []
+ },
+ "嫌いだ・きらいだ_190": {
+  "grammar_point": "嫌いだ・きらいだ",
+  "translation": "Don’t like; dislike",
+  "explanation": "Something or someone is what someone does not like.",
+  "sentences": []
+ },
+ "すると_437": {
+  "grammar_point": "すると",
+  "translation": "Thereupon ~; then ~; and ~",
+  "explanation": "A coordinate conjunction which connects two sentences (the second sentence either describes an event which takes place right after the event described in the first sentence or it expresses a logical guess related to the event in the first sentence.)",
+  "sentences": []
+ },
+ "それとも_421": {
+  "grammar_point": "それとも",
+  "translation": "Or; either ~ or ~",
+  "explanation": "A coordinate conjunction which connects two alternatives expressed by sentences.",
+  "sentences": []
+ },
+ "たい_441": {
+  "grammar_point": "たい",
+  "translation": "Want (to do something); would like (to do something)",
+  "explanation": "An auxiliary adjective which expresses a desire to do something.",
+  "sentences": []
+ },
+ "ごとに_128": {
+  "grammar_point": "ごとに",
+  "translation": "Every",
+  "explanation": "Something takes place regularly in succession after a certain temporal or spatial interval.",
+  "sentences": []
+ },
+ "うちに_512": {
+  "grammar_point": "うちに",
+  "translation": "While; before; during",
+  "explanation": "During a period when a certain situation remains in effect.",
+  "sentences": []
+ },
+ "ようになる_559": {
+  "grammar_point": "ようになる",
+  "translation": "Reach the point where ~; come to ~; it has come to be that ~; have finally become",
+  "explanation": "Some change takes place gradually.",
+  "sentences": []
+ },
+ "ように言う_556": {
+  "grammar_point": "ように言う",
+  "translation": "Tell ~ to ~; say ~ in such a way",
+  "explanation": "Tell someone in such a way that he will do something.",
+  "sentences": []
+ },
+ "ずつ_572": {
+  "grammar_point": "ずつ",
+  "translation": "By; at a time.",
+  "explanation": "A particle that indicates equal distribution of quantity.",
+  "sentences": []
+ }
+}
